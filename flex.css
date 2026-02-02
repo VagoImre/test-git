@@ -1,0 +1,11 @@
+#macska
+{border: 2px solid black;}
+
+
+.macska
+{border: 1px solid red;
+    width: calc(100% / 3 - 2px);
+    display: inline-block;
+
+
+}
