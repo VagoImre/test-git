@@ -1,9 +1,12 @@
 #macskacontener {
     display: grid;
-    border: 2p red dashed;
+    grid-template-columns: 1fr 2fr 3fr;
+    border: 2px red dashed;
+    gap: 10px;
 }
 
 .itemG
 {border: 1px solid black;
     display: flex;
+    padding: 10px;
 }
