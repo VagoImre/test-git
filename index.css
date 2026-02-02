@@ -1,4 +1,9 @@
-.miert
+#macskacontener {
+    display: grid;
+    border: 2p red dashed;
+}
+
+.itemG
 {border: 1px solid black;
     display: flex;
 }
